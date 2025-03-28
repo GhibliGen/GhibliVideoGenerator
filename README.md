@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://ghibligenerator.tech/">🌐 Visit Our Website</a>
+  <a href="https://ghiblianimator.tech/">🌐 Visit Our Website</a>
    <a href="https://x.com/GhibliVids">🐦 Follow Us on Twitter</a>
 </p>
 
